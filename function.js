@@ -212,5 +212,6 @@ let demo="true"
   }
 
 });
-console.log(promise);
+let a=10;
+// console.log(promise);
 
